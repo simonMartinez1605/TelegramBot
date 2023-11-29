@@ -90,9 +90,10 @@ def respuesta(call):
     elif call.data == 'info':  
         print('info')
     elif call.data == 'ayuda': 
+        #hola 
         print('ayuda') 
     elif call.data =='contacto': 
-        print('contacto') 
+        print('contacto')  
         #sdfjksbjkfbds
 
 
